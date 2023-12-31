@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Martin Atanasov
-- 👀 I’m interested in programming(especially JS)
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning in SoftUni
 - 📫 How to reach me you can't
 
